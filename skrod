@@ -1,0 +1,3 @@
+Search for people who work at company on LinkedIn without touching it.
+  intitle:{nubank} site:linkedin.com/in/ (intitle:"{security}" OR intext:"{threat}"
+  -inurl:"{nubank}" intitle:"{nubank}" site:linkedin.com/in/ (intitle:"{security}" OR intext:"{threat}")
